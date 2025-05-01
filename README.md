@@ -10,6 +10,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Component Used in this Project
 - shadcn
+- CustomCalendar
 
 ## Database Used in this Project
 - Firebase
